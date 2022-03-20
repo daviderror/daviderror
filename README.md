@@ -21,6 +21,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  ### 🔥:My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviderror&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
 </div>
+### 🔥:My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviderror&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
